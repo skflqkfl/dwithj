@@ -5,6 +5,6 @@ public class exam_11_2 implements Cloneable {
 		System.out.println("");
 		Object object = new Object();
 		String string = new String();
-		
+		 
 	}
 }
